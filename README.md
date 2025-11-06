@@ -17,6 +17,9 @@ Path: `MLpractice/CarInsuranceClaimPrediction/`
 Each project follows a modular structure:
 
 data/ → raw and processed datasets
+
 notebooks/ → Jupyter notebooks (cleaning → EDA → modeling)
+
 assets/ → figures and summary outputs
+
 scripts/ → helper scripts for automation
